@@ -1,0 +1,236 @@
+[[fpzip]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "68f4b0fae11f43a45d8135861084f4c96ac669b8"
+libc = "glibc"
+os = "linux"
+
+    [[fpzip.download]]
+    sha256 = "19e17d730709d76778e4abcd1f01bd2e91c8ada7800b164881ddd3ba27ecd315"
+    url = "https://github.com/JuliaBinaryWrappers/fpzip_jll.jl/releases/download/fpzip-v1.3.0+0/fpzip.v1.3.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[fpzip]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f7938c43fa28ad4fcf2e5e9326c445ffd96c4df1"
+libc = "glibc"
+os = "linux"
+
+    [[fpzip.download]]
+    sha256 = "2c8d7c54be26ab5e4d08b31e968497b34b5171224bc1c3e1c68440dc265bf668"
+    url = "https://github.com/JuliaBinaryWrappers/fpzip_jll.jl/releases/download/fpzip-v1.3.0+0/fpzip.v1.3.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[fpzip]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "abaf4661465621d8e651631bb15607f1a0e97518"
+libc = "musl"
+os = "linux"
+
+    [[fpzip.download]]
+    sha256 = "32acf04414e67fa6060f416cfcd45b7575e8478cdaa03e5c7e4d70dc8e93bb88"
+    url = "https://github.com/JuliaBinaryWrappers/fpzip_jll.jl/releases/download/fpzip-v1.3.0+0/fpzip.v1.3.0.aarch64-linux-musl-cxx03.tar.gz"
+[[fpzip]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "78203842e625cb0db9e533fef7d773553d16c161"
+libc = "musl"
+os = "linux"
+
+    [[fpzip.download]]
+    sha256 = "262e33a5f265ff086dc8406a3e6b5ff54ac67c010d82af0cba600192a163d472"
+    url = "https://github.com/JuliaBinaryWrappers/fpzip_jll.jl/releases/download/fpzip-v1.3.0+0/fpzip.v1.3.0.aarch64-linux-musl-cxx11.tar.gz"
+[[fpzip]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5da068d8a35c8f239de173bb0430fbabba8f3819"
+libc = "glibc"
+os = "linux"
+
+    [[fpzip.download]]
+    sha256 = "22b69aba5d04118b4130005b3766d90e6502a491a3e5b249e24c07a1ca5b5b09"
+    url = "https://github.com/JuliaBinaryWrappers/fpzip_jll.jl/releases/download/fpzip-v1.3.0+0/fpzip.v1.3.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[fpzip]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f3232541d7022166b9daa9f7585f9eb85e5f263c"
+libc = "glibc"
+os = "linux"
+
+    [[fpzip.download]]
+    sha256 = "49d2f2b3bacbbca93f9c9977d1f77681999664d64d8ee29c6066ca70c54bf0fd"
+    url = "https://github.com/JuliaBinaryWrappers/fpzip_jll.jl/releases/download/fpzip-v1.3.0+0/fpzip.v1.3.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[fpzip]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f8f64152db60af41609b89a83787409507f1e9a7"
+libc = "musl"
+os = "linux"
+
+    [[fpzip.download]]
+    sha256 = "0380a54ba8913edacb09a2fa2c966884346fde2a34477876341eba29df0204c8"
+    url = "https://github.com/JuliaBinaryWrappers/fpzip_jll.jl/releases/download/fpzip-v1.3.0+0/fpzip.v1.3.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[fpzip]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "63ec7f8ef05dc260accfd6346b54aabca4000461"
+libc = "musl"
+os = "linux"
+
+    [[fpzip.download]]
+    sha256 = "1ee8cef07fd6123890567031c502ddfbf1657c45df893d2fb0154db733bbb223"
+    url = "https://github.com/JuliaBinaryWrappers/fpzip_jll.jl/releases/download/fpzip-v1.3.0+0/fpzip.v1.3.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[fpzip]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5b5938000d0472d661dd2dcae5f9f68653ea4ac7"
+libc = "glibc"
+os = "linux"
+
+    [[fpzip.download]]
+    sha256 = "5822ef9e3daeb3872f7762151c6cf96f60ad361bdf1cdc67136d6e3b40851148"
+    url = "https://github.com/JuliaBinaryWrappers/fpzip_jll.jl/releases/download/fpzip-v1.3.0+0/fpzip.v1.3.0.i686-linux-gnu-cxx03.tar.gz"
+[[fpzip]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "475fd9d6e7983ccf83d41ddb4ad29b630cc83af1"
+libc = "glibc"
+os = "linux"
+
+    [[fpzip.download]]
+    sha256 = "5699d099c09ad28fed690ea74d60049118dfb66e59872d1edf098ef97841288b"
+    url = "https://github.com/JuliaBinaryWrappers/fpzip_jll.jl/releases/download/fpzip-v1.3.0+0/fpzip.v1.3.0.i686-linux-gnu-cxx11.tar.gz"
+[[fpzip]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9071cbd4402657d60d69e710fe9d0d73c2a02d5d"
+libc = "musl"
+os = "linux"
+
+    [[fpzip.download]]
+    sha256 = "356e9de5c0a23c05953ed8cbf6c0d363af7ea0c85be1187223ef3d4656cc4f18"
+    url = "https://github.com/JuliaBinaryWrappers/fpzip_jll.jl/releases/download/fpzip-v1.3.0+0/fpzip.v1.3.0.i686-linux-musl-cxx03.tar.gz"
+[[fpzip]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2924f21c9e4727d9dc4684a164192499362380af"
+libc = "musl"
+os = "linux"
+
+    [[fpzip.download]]
+    sha256 = "c72829f8b64f3689670f60efdfa70b24f8683c8d320f7a58d35eabe75f5c06a5"
+    url = "https://github.com/JuliaBinaryWrappers/fpzip_jll.jl/releases/download/fpzip-v1.3.0+0/fpzip.v1.3.0.i686-linux-musl-cxx11.tar.gz"
+[[fpzip]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "dba9859057265d05cec921225b7ca64398c0ce9b"
+os = "windows"
+
+    [[fpzip.download]]
+    sha256 = "d968c25bcebc5acf29aaac75db82a181f30f9a4e524781072d9b91dbc4167723"
+    url = "https://github.com/JuliaBinaryWrappers/fpzip_jll.jl/releases/download/fpzip-v1.3.0+0/fpzip.v1.3.0.i686-w64-mingw32-cxx03.tar.gz"
+[[fpzip]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6307ce1f6c56b9f558e60984189a00b44fde5aff"
+os = "windows"
+
+    [[fpzip.download]]
+    sha256 = "383232b6c2609041a8cf1422b879a20a5d15c0a71c53d3a4293f79f715d13781"
+    url = "https://github.com/JuliaBinaryWrappers/fpzip_jll.jl/releases/download/fpzip-v1.3.0+0/fpzip.v1.3.0.i686-w64-mingw32-cxx11.tar.gz"
+[[fpzip]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2557c287cac2b76f34c874e3edcbcab4a1ba7de0"
+libc = "glibc"
+os = "linux"
+
+    [[fpzip.download]]
+    sha256 = "3a74bc39db3bfab1e0aba0c440643294e1209cc30d24ef0a46e333135fbea228"
+    url = "https://github.com/JuliaBinaryWrappers/fpzip_jll.jl/releases/download/fpzip-v1.3.0+0/fpzip.v1.3.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[fpzip]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "50e754b87adf1e806ff2aaf9f6d44f42697c0417"
+libc = "glibc"
+os = "linux"
+
+    [[fpzip.download]]
+    sha256 = "fd1f88da6058170be83d75b2489cc655f045fbc9b7ceade159f371c2dca28bc1"
+    url = "https://github.com/JuliaBinaryWrappers/fpzip_jll.jl/releases/download/fpzip-v1.3.0+0/fpzip.v1.3.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[fpzip]]
+arch = "x86_64"
+git-tree-sha1 = "40ca32339c7f3c902f28910d8ae32dd934d3191c"
+os = "macos"
+
+    [[fpzip.download]]
+    sha256 = "1b92a17fd224931ba75522905c1deebf62bc4992e5cc9913cea86db1ddb47110"
+    url = "https://github.com/JuliaBinaryWrappers/fpzip_jll.jl/releases/download/fpzip-v1.3.0+0/fpzip.v1.3.0.x86_64-apple-darwin.tar.gz"
+[[fpzip]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b86bb1d09637a5ab3514678307562a186d59846d"
+libc = "glibc"
+os = "linux"
+
+    [[fpzip.download]]
+    sha256 = "1faab339d51eff78164d8b54cb0acd48389bf89b7a685cb69291a152cd3e998a"
+    url = "https://github.com/JuliaBinaryWrappers/fpzip_jll.jl/releases/download/fpzip-v1.3.0+0/fpzip.v1.3.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[fpzip]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f384454a91b874ff970e5e952e23b7dd71ddc9af"
+libc = "glibc"
+os = "linux"
+
+    [[fpzip.download]]
+    sha256 = "3a01506c8a93e3040ee809f797588e1e15a08b77f8ccacbc4d5a358fea25d302"
+    url = "https://github.com/JuliaBinaryWrappers/fpzip_jll.jl/releases/download/fpzip-v1.3.0+0/fpzip.v1.3.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[fpzip]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "084a0e773a3c8b0b8b85ceb3e0a3f2f7c4885182"
+libc = "musl"
+os = "linux"
+
+    [[fpzip.download]]
+    sha256 = "d80d54ae8f953f248d146995d46810a8dfb834ee0da6e4ea3734fcbac23ccab6"
+    url = "https://github.com/JuliaBinaryWrappers/fpzip_jll.jl/releases/download/fpzip-v1.3.0+0/fpzip.v1.3.0.x86_64-linux-musl-cxx03.tar.gz"
+[[fpzip]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "73e9f54c14770adac772347f7eabe03c8b8adb25"
+libc = "musl"
+os = "linux"
+
+    [[fpzip.download]]
+    sha256 = "790d914848fb9b453ee58aa0aaa542313433f7c98846b6ddeebb2f61dfd081e2"
+    url = "https://github.com/JuliaBinaryWrappers/fpzip_jll.jl/releases/download/fpzip-v1.3.0+0/fpzip.v1.3.0.x86_64-linux-musl-cxx11.tar.gz"
+[[fpzip]]
+arch = "x86_64"
+git-tree-sha1 = "380d271ff8f9b952c683b1126561506830f2435f"
+os = "freebsd"
+
+    [[fpzip.download]]
+    sha256 = "0de83fabf8b81505391fc5a23d0b280046d8a134ca45f5980ac95cdb0d0c8eee"
+    url = "https://github.com/JuliaBinaryWrappers/fpzip_jll.jl/releases/download/fpzip-v1.3.0+0/fpzip.v1.3.0.x86_64-unknown-freebsd.tar.gz"
+[[fpzip]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "839e073ffeb08d2439d4fbc7c0d9088e7e0cf4d3"
+os = "windows"
+
+    [[fpzip.download]]
+    sha256 = "9317ee4f4617800ef72ed09e7a20e699a1d7c5330a085e484811c27a9a75b799"
+    url = "https://github.com/JuliaBinaryWrappers/fpzip_jll.jl/releases/download/fpzip-v1.3.0+0/fpzip.v1.3.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[fpzip]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9317390af3a5411c3b9b0b59deb8acbc9628ce07"
+os = "windows"
+
+    [[fpzip.download]]
+    sha256 = "cca8c3ad6afacca67633eb062a806a2c076d00287fe35f0d02fef3fefa08d714"
+    url = "https://github.com/JuliaBinaryWrappers/fpzip_jll.jl/releases/download/fpzip-v1.3.0+0/fpzip.v1.3.0.x86_64-w64-mingw32-cxx11.tar.gz"
